@@ -61,7 +61,7 @@ with tempfile.TemporaryDirectory() as tmp_dir:
                        ('_GLIBCXX_USE_CXX11_ABI', '0'),
                        ('P_NEEDS_GNU_CXX_NAMESPACE', '1')])
 
-    setup(name='pytrec_eval',
+    setup(name='pytrec_eval_mitanshu',
           version='0.5',
           description='Provides Python bindings for popular '
                       'Information Retrieval measures implemented '
